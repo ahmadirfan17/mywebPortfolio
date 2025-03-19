@@ -77,7 +77,7 @@ I am a Senior Lecturer at Universiti Tenaga Nasional (UNITEN) specializing in AI
 
 - Integrated big data analytics to optimize large-scale solar (LSS) farm performance.  
 
- 
+ [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 ### 🔹 AI-Powered Smart Grid Analytics  
 
